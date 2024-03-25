@@ -13,7 +13,7 @@ import tests
 
 
 def main():
-    matrix_sizes = [20, 40, 80, 125]  # Adjust this list based on your computational resources
+    matrix_sizes = [20, 40, 80, 125, 250, 500]  # Adjust this list based on your computer's capabilities
 
     dense_times_mat_mat_mult = []
     sparse_times_mat_mat_mult = []
